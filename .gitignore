@@ -1,0 +1,5 @@
+.env
+init.txt
+*.png
+__pycache__
+*.log

@@ -1,0 +1,4 @@
+httpx==0.23.1
+Pillow==9.3.0
+selenium==4.7.2
+twitchio==1.2.3
